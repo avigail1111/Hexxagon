@@ -1,0 +1,49 @@
+﻿<Window x:Class="Hexxagon.Prescription"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Prescription" Height="681.672" Width="980.881"  >
+    <!--<Window.Background>
+        <ImageBrush ImageSource="bin/Debug/Images/instructions.jpg"/>
+    </Window.Background>-->
+    <Grid>
+        <Grid.RowDefinitions> 
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+            <RowDefinition Height="20*"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+        </Grid>
+ 
+        <!--<StackPanel FlowDirection="RightToLeft" Grid.Row="2" Orientation="Vertical">-->
+        <!--<ScrollViewer HorizontalScrollBarVisibility="Auto" Grid.Row="2" FlowDirection="RightToLeft">-->
+
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="2*" /> 
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="3*" />
+            </Grid.ColumnDefinitions>
+            <Button  Margin="0,10" Grid.Column="1" Content="תפריט ראשי" Name="go_back" Click="go_back_Click" Visibility="Hidden" />
+            <Button Margin="0,10" Grid.Column="3" Content="ממשיכים" Name="continue" Click="continue_Click" Visibility="Hidden"  />
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="50" Margin="429,349,0,0" Grid.Row="2" VerticalAlignment="Top" Width="48" Cursor="Hand" MouseDown="Grid_MouseDown_2" ToolTip="יציאה">
+            <Grid.Background>
+                <ImageBrush/>
+            </Grid.Background>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="61" Margin="528,338,0,0" Grid.Row="2" VerticalAlignment="Top" Width="56" Cursor="Hand" MouseDown="Grid_MouseDown_1" ToolTip="המשך">
+            <Grid.Background>
+                <ImageBrush/>
+            </Grid.Background>
+        </Grid>
+    </Grid>
+</Window>

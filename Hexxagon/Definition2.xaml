@@ -1,0 +1,44 @@
+﻿<Window x:Class="Hexxagon.Definition2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="הגדרות" Height="700" Width="1032.631" WindowStartupLocation="CenterScreen">
+    <!--<Window.Background>
+        <ImageBrush ImageSource="bin/Debug/Images/definitionmenu.jpg"/>
+    </Window.Background>-->
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="45" Margin="691,282,0,0" Stroke="Black" VerticalAlignment="Top" Width="48" StrokeThickness="0" MouseDown="Rectangle_MouseDown_1" Cursor="Hand">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="#FF852C2C" Opacity="0"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="46" Margin="691,340,0,0" Stroke="Black" StrokeThickness="0" VerticalAlignment="Top" Width="48" MouseDown="Rectangle_MouseDown_2" Cursor="Hand">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="#FF572020" Opacity="0"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBox x:Name="t_1" HorizontalAlignment="Left" Height="23" Margin="333,213,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="99" FlowDirection="RightToLeft"/>
+        <TextBox x:Name="t_2" HorizontalAlignment="Left" Height="23" Margin="333,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="101" FlowDirection="RightToLeft"/>
+        <Image x:Name="imgp1" HorizontalAlignment="Left" Height="23" Margin="449,213,0,0" VerticalAlignment="Top" Width="76" Source="bin/Debug/Images/p1.png"/>
+        <Image x:Name="imgp2" HorizontalAlignment="Left" Height="23" Margin="449,258,0,0" VerticalAlignment="Top" Width="76" Source="bin/Debug/Images/p2.png"/>
+        <Image x:Name="i1" HorizontalAlignment="Left" Height="25" Margin="376,308,0,0" VerticalAlignment="Top" Width="84" Source="bin/Debug/Images/levelgame.png" Visibility="Hidden"/>
+        <Image x:Name="i2" HorizontalAlignment="Left" Height="16" Margin="385,342,0,0" VerticalAlignment="Top" Width="68" Source="bin/Debug/Images/level1t.png" Visibility="Hidden"/>
+        <Image x:Name="i3" HorizontalAlignment="Left" Height="17" Margin="375,381,0,0" VerticalAlignment="Top" Width="68" Source="bin/Debug/Images/level2t.png" Visibility="Hidden"/>
+        <Image x:Name="i4" HorizontalAlignment="Left" Height="35" Margin="449,338,0,0" VerticalAlignment="Top" Width="37" Source="bin/Debug/Images/level1.png" Cursor="Hand" MouseDown="i4_MouseDown" Visibility="Hidden"/>
+        <Image x:Name="i5" HorizontalAlignment="Left" Height="29" Margin="449,378,0,0" VerticalAlignment="Top" Width="36" Source="bin/Debug/Images/level2.png" RenderTransformOrigin="0.5,0.5" Cursor="Hand" MouseDown="i5_MouseDown" Visibility="Hidden">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="2.549"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Rectangle HorizontalAlignment="Left" Height="68" Margin="486,452,0,0" Stroke="Black" VerticalAlignment="Top" Width="69" StrokeThickness="0" Cursor="Hand" MouseDown="Rectangle_MouseDown_3" ToolTip="התחל">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="#FF0C0C40" Opacity="0"/>
+            </Rectangle.Fill>
+        </Rectangle>
+
+    </Grid>
+</Window>

@@ -1,0 +1,29 @@
+﻿<Window x:Class="Hexxagon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hexxagon" Height="500" Width="753" WindowStyle="None" WindowStartupLocation="CenterScreen"  >
+    <!--<Window.Background>
+        <ImageBrush ImageSource="bin/Debug/Images/mainmenu.jpg"/>
+    </Window.Background>-->
+
+    <Grid x:Name="MainGrid">
+           
+       
+        <Grid HorizontalAlignment="Left" Height="50" Margin="284,337,0,0"  VerticalAlignment="Top" Width="44" RenderTransformOrigin="1.205,0.94" Cursor="Hand" MouseDown="Grid_MouseDown_1" ToolTip="יציאה">
+            <Grid.Background>
+                <ImageBrush/>
+            </Grid.Background>
+        </Grid>
+        <Grid  HorizontalAlignment="Left" Height="49" Margin="361,338,0,0"  VerticalAlignment="Top" Width="41" MouseDown="Grid_MouseDown_2" Cursor="Hand" ToolTip="הוראות">
+            <Grid.Background>
+                <ImageBrush/>
+            </Grid.Background>
+        </Grid>
+        <Grid  HorizontalAlignment="Left" Height="49" Margin="441,337,0,0"  VerticalAlignment="Top" Width="37" Cursor="Hand" MouseDown="Grid_MouseDown_3" ToolTip="הגדרות">
+            <Grid.Background>
+                <ImageBrush/>
+            </Grid.Background>
+        </Grid>
+        <!--<Image Source="~/Resources/logo.png" Margin="12,43,289,195rgin="24,0,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/Hexxagon;component/Resources/logo.png""  />-->
+    </Grid>
+</Window>
