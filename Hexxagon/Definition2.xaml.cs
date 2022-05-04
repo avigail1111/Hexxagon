@@ -23,9 +23,9 @@ namespace Hexxagon
         public string name2;
         int levelchecked=1;
         int typegame;
-        int xx = 0;
+        
         public int x;// מייצג אם נבחר שחקן אחד או שניים
-        int flag = 0;/*music don't work*/
+        
         public Definition2()
         {
             InitializeComponent();

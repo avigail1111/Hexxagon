@@ -1,0 +1,103 @@
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.csproj.ResolveComReference.cache
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\bin\Debug\Hexxagon.exe
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\bin\Debug\Hexxagon.pdb
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Board.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Definition.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Definition2.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\EnterWindow.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\HexxagonPart.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\MainWindow.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\PlayWithFriend.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Prescription.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\SecondMenu.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Soldier.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Winner.baml
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Board.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Definition.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Definition2.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\EnterWindow.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\HexxagonPart.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\PlayWithFriend.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Prescription.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\SecondMenu.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Soldier.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Winner.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\App.g.cs
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon_MarkupCompile.cache
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.g.resources
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.Properties.Resources.resources
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.csproj.GenerateResource.Cache
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.exe
+C:\Users\Lea\Desktop\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.pdb
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Interop.WMPLib.dll
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.csproj.ResolveComReference.cache
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.exe
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.pdb
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\bin\Debug\Hexxagon.exe
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\bin\Debug\Hexxagon.pdb
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Board.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Definition.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Definition2.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\EnterWindow.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\HexxagonPart.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\MainWindow.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\PlayWithFriend.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Prescription.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\SecondMenu.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Soldier.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Winner.baml
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Board.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Definition.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Definition2.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\EnterWindow.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\HexxagonPart.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\MainWindow.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\PlayWithFriend.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Prescription.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\SecondMenu.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Soldier.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Winner.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\App.g.cs
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon_MarkupCompile.cache
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.g.resources
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.Properties.Resources.resources
+C:\אביגיל לוי\פרויקט גמר בהנדסאות\Hexxagon Play\15.2.16\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.csproj.GenerateResource.Cache
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\bin\Debug\Hexxagon.exe.config
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\bin\Debug\Hexxagon.exe
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\bin\Debug\Hexxagon.pdb
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.csproj.AssemblyReference.cache
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.csproj.SuggestedBindingRedirects.cache
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.csproj.ResolveComReference.cache
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Board.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Definition.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Definition2.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\EnterWindow.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\HexxagonPart.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\MainWindow.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\PlayWithFriend.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Prescription.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\SecondMenu.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Soldier.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Winner.baml
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Board.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Definition.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Definition2.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\EnterWindow.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\HexxagonPart.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\MainWindow.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\PlayWithFriend.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Prescription.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\SecondMenu.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Soldier.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Winner.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\App.g.cs
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon_MarkupCompile.cache
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.g.resources
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.Properties.Resources.resources
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.csproj.GenerateResource.cache
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.csproj.CoreCompileInputs.cache
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.exe
+C:\Users\aviga\Desktop\Hexxagon\Hexxagon\obj\x86\Debug\Hexxagon.pdb

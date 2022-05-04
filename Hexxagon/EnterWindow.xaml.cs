@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Windows;
+using System.Threading;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
@@ -39,7 +40,7 @@ namespace Hexxagon
            
             bi2.EndInit();
             this.Background = new ImageBrush(bi2);
-            ss.Search(path2 + @"/Music/111.wma");
+            ss.Search(path2 + @"/Music/01 - A Way of Life.mp3");
             ss.Start();
             tmr.Tick += new EventHandler(tmr_Tick);
             tmr.Interval = new TimeSpan(10000000);
@@ -49,7 +50,10 @@ namespace Hexxagon
         void tmr_Tick(object sender, EventArgs e)
         {
             MainWindow mw = new MainWindow();
+            Thread.Sleep(2000);
             mw.Show();
+            
+            this.Hide();
             tmr.Stop();
         }
     }

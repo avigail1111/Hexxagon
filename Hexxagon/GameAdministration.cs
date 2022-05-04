@@ -48,7 +48,7 @@ namespace Hexxagon
                 mmm.lbl2.Content = Nikud2.ToString();
                 Tor = 2;
                 //לשנות לתמונות המודגשות
-              
+              //jjj
                 BitmapImage logo = new BitmapImage();
                 logo.BeginInit();
                 logo.UriSource = new Uri(path2 + @"/Images/nikud.png", UriKind.RelativeOrAbsolute);

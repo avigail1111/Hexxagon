@@ -10,7 +10,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-using System.Windows.Media;
+
 using System.Windows.Threading;
 using Microsoft.Win32;
 using System.Media;
@@ -118,8 +118,9 @@ namespace Hexxagon
             else
                 friend = new PlayWithFriend(2, t_1.Text, t_2.Text,0);
             friend.Show();
-            EnterWindow.ss.Stop();
             this.Hide();
+            EnterWindow.ss.Stop();
+            
         }
         //מגדיל את הכיתוב 'התחל' כאשר נכנס לתחום הכפתור
      
